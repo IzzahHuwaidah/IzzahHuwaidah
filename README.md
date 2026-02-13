@@ -93,6 +93,6 @@ I build data-driven solutions and physics-based simulations to solve real-world 
 
 ## 📬 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/izzahhuwaidah]
-- Email: [izzahhuwaidah483@gmail.com]
-- GitHub: [https://github.com/IzzahHuwaidah]
+- LinkedIn: www.linkedin.com/in/izzahhuwaidah
+- Email: izzahhuwaidah483@gmail.com
+- GitHub: https://github.com/IzzahHuwaidah
