@@ -38,6 +38,16 @@ Strengthening Machine Learning foundations and expanding computational research 
 
 ---
 
+## 📈 GitHub Statistics
+<p align="left">
+<a href="https://github.com/IzzahHuwaidah">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IzzahHuwaidah&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzzahHuwaidah&layout=compact"/>
+</a>
+</p>
+
+---
+
 ## 📬 Connect With Me
 - LinkedIn: www.linkedin.com/in/izzahhuwaidah  
 - Email: izzahhuwaidah483@gmail.com  
